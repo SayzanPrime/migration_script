@@ -1,0 +1,14 @@
+# Python cache
+__pycache__
+
+# Env
+.env
+.venv
+
+env/
+venv/
+ENV/
+VENV/
+
+env.bak/
+venv.bak/
